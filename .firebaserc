@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "testecdipero"
+  },
+  "targets": {
+    "testecdipero": {
+      "hosting": {
+        "app": [
+          "testecdipero"
+        ]
+      }
+    }
+  }
+}
